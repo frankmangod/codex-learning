@@ -1,0 +1,22 @@
+{
+  "name": "olive-and-oak-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "橄榄与木餐馆响应式首页",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "npm run build",
+    "test": "node --test"
+  },
+  "type": "module",
+  "dependencies": {
+    "vue": "^3.5.43"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "vite": "^8.3.4"
+  }
+}
